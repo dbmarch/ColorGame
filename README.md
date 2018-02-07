@@ -3,4 +3,4 @@
 Launch "ColorGame.html" in your browser
 
 
-[link](./Colorgame.html)
+[link](./colorGame.html)
